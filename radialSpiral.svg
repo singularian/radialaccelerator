@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="765"
+   height="990"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="spiral.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-62.362183)">
+    <path
+       sodipodi:type="spiral"
+       style="fill:#917c6f;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2995"
+       sodipodi:cx="211.42857"
+       sodipodi:cy="310"
+       sodipodi:expansion="1"
+       sodipodi:revolution="10.91"
+       sodipodi:radius="190.3166"
+       sodipodi:argument="-67.114281"
+       sodipodi:t0="0.02"
+       d="m 207.72261,309.13166 c -1.5207,-3.5965 2.33784,-6.76756 5.56919,-7.08368 6.02607,-0.58953 10.40241,5.21733 10.33486,10.81013 -0.10085,8.34979 -8.12727,14.11956 -16.05108,13.58604 -10.66148,-0.71787 -17.86781,-11.04567 -16.83721,-21.29203 1.30469,-12.97156 13.96745,-21.63128 26.53297,-20.08839 15.28174,1.87641 25.40337,16.89103 23.33956,31.77392 -2.43951,17.59232 -19.81567,29.18079 -37.01486,26.59074 -19.90328,-2.99726 -32.96176,-22.74103 -29.84192,-42.25581 3.55146,-22.21456 25.66689,-36.74519 47.49676,-33.09309 24.52611,4.10317 40.5304,28.59311 36.34427,52.7377 -4.65309,26.83787 -31.51962,44.31696 -57.97866,39.59545 -29.14978,-5.20167 -48.10452,-34.44634 -42.84661,-63.21961 5.7492,-31.46184 37.37323,-51.89289 68.46055,-46.09779 33.77402,6.29594 55.6819,40.30027 49.34896,73.7015 -6.84203,36.08629 -43.22741,59.47144 -78.94244,52.60014 -38.39864,-7.3876 -63.2614,-46.15465 -55.85132,-84.18339 7.93274,-40.71105 49.08197,-67.05171 89.42434,-59.10249 43.02352,8.47752 70.84232,52.00936 62.35367,94.66528 -9.02201,45.33604 -54.9368,74.63319 -99.90623,65.60485 -47.6486,-9.56623 -78.42427,-57.8643 -68.85602,-105.14718 10.11023,-49.9612 60.79183,-82.21554 110.38812,-72.1072 52.27383,10.65406 86.00697,63.71941 75.35837,115.62907 -11.19771,54.58648 -66.64701,89.79855 -120.87002,78.60955 -56.89915,-11.74122 -93.590236,-69.57464 -81.86072,-126.11097 12.28461,-59.21185 72.50231,-97.38204 131.35192,-85.11189 61.52457,12.82788 101.17395,75.42999 88.36307,136.59286 -13.37106,63.83731 -78.3577,104.96594 -141.83381,91.61425 C 117.54825,414.43547 74.940302,347.0642 88.832896,281.27486 103.29005,212.81202 173.04605,168.7247 241.1486,183.15826 311.92422,198.15835 357.49096,270.29917 342.51637,340.71491 326.97341,413.80332 252.44769,460.84954 179.71878,445.33386 104.31756,429.24809 55.791832,352.3374 71.848651,277.29532 88.477187,199.58129 167.7729,149.57601 245.12814,166.17402 325.15499,183.34527 376.63986,265.02607 359.50062,344.69445 341.7867,427.03413 257.72075,479.99862 175.73923,462.31811 91.086723,444.06156 36.642589,357.61042 54.864406,273.31577 73.663545,186.35042 162.49992,130.42661 249.10769,149.18977 338.38589,168.53147 395.7894,259.75313 376.48486,348.674 356.60064,440.26506 262.99367,499.14829 171.75969,479.30235 77.855771,458.87563 17.492798,362.8833 37.880161,269.33623 58.849352,173.11945 157.22707,111.27671 253.08723,132.20553 351.61688,153.71716 414.9394,254.48029 393.46911,352.65354 376.93636,428.2498 313.54223,487.01595 237.14259,498.57147"
+       transform="matrix(1.5720216,0,0,1.4630857,35.137125,54.638366)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="68.571426"
+       y="70"
+       id="text2999"
+       sodipodi:linespacing="125%"
+       transform="translate(0,62.362183)"><tspan
+         sodipodi:role="line"
+         id="tspan3001"
+         x="68.571426"
+         y="70">Spiral Accelerator Module</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3003"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="spiralAccelerator.svg">
+  <defs
+     id="defs3005">
+    <linearGradient
+       id="linearGradient5243"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5245" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-99.285714"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3008">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:none"
+       id="path3783"
+       sodipodi:cx="365.71429"
+       sodipodi:cy="540.93359"
+       sodipodi:rx="211.42857"
+       sodipodi:ry="188.57143"
+       d="m 577.14287,540.93359 a 211.42857,188.57143 0 1 1 -422.85715,0 211.42857,188.57143 0 1 1 422.85715,0 z" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1"
+       id="path5251"
+       sodipodi:cx="394.28571"
+       sodipodi:cy="455.21933"
+       sodipodi:rx="200"
+       sodipodi:ry="171.42857"
+       d="m 594.28571,455.21933 a 200,171.42857 0 1 1 -400,0 200,171.42857 0 1 1 400,0 z"
+       transform="translate(-17.142857,34.285714)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f2f2f2;fill-opacity:1"
+       id="path5255"
+       sodipodi:cx="382.85715"
+       sodipodi:cy="495.21933"
+       sodipodi:rx="82.85714"
+       sodipodi:ry="65.714287"
+       d="m 465.71429,495.21933 a 82.85714,65.714287 0 1 1 -165.71428,0 82.85714,65.714287 0 1 1 165.71428,0 z"
+       transform="matrix(1.7586207,0,0,1.7826087,-296.15765,-396.13438)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259"
+       width="157.14285"
+       height="37.142857"
+       x="120"
+       y="-489.50504"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-0"
+       width="157.14285"
+       height="37.142857"
+       x="475.71429"
+       y="-482.36218"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-3"
+       width="157.14285"
+       height="37.142857"
+       x="-428.07648"
+       y="-398.57144"
+       transform="matrix(0,-1,-1,0,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-01"
+       width="157.14285"
+       height="37.142857"
+       x="-713.79077"
+       y="-398.57144"
+       transform="matrix(0,-1,-1,0,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-5"
+       width="157.14285"
+       height="37.142857"
+       x="-2.4600065"
+       y="-629.36377"
+       transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-6"
+       width="157.14285"
+       height="37.142857"
+       x="-317.62759"
+       y="-625.32312"
+       transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-8"
+       width="157.14285"
+       height="37.142857"
+       x="-533.80023"
+       y="60.880634"
+       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-1"
+       width="157.14285"
+       height="37.142857"
+       x="-853.00842"
+       y="44.718185"
+       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="94.285713"
+       y="103.79075"
+       id="text5321"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5323"
+         x="94.285713"
+         y="103.79075">A Circular Radial Accelerator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="82.85714"
+       y="898.07648"
+       id="text5325"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5327"
+         x="82.85714"
+         y="898.07648">Spiral Modules</tspan><tspan
+         sodipodi:role="line"
+         x="82.85714"
+         y="948.07648"
+         id="tspan5329" /></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5331"
+       width="2.8571429"
+       height="174.28572"
+       x="182.85715"
+       y="686.64789" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5333"
+       width="7.4144311"
+       height="131.92439"
+       x="-87.74514"
+       y="500.05692"
+       transform="matrix(0.78063787,-0.62498362,0.52224952,0.85279273,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5342"
+       width="5.7142859"
+       height="97.14286"
+       x="401.27261"
+       y="194.25897"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-9"
+       width="142.85713"
+       height="5.7142854"
+       x="-56.269356"
+       y="-755.79602"
+       transform="matrix(0.81915204,-0.57357644,-0.57357644,-0.81915204,0,0)"
+       inkscape:transform-center-x="22.857143" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5358"
+       width="0"
+       height="151.42857"
+       x="28.57143"
+       y="209.50504" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5360"
+       width="7.2576194"
+       height="123.05669"
+       x="408.12534"
+       y="-667.08386"
+       transform="matrix(-0.54719888,0.83700262,-0.89343702,-0.44918848,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-2"
+       width="118.0248"
+       height="4.148242"
+       x="-600.20911"
+       y="170.46747"
+       transform="matrix(-0.9268409,-0.37545432,-0.47294818,0.88109025,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-2-6"
+       width="93.825768"
+       height="5.9359822"
+       x="-791.53772"
+       y="-151.50122"
+       transform="matrix(-0.65733069,-0.75360226,-0.18634281,0.98248479,0,0)"
+       inkscape:transform-center-x="31.390342" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-2-5"
+       width="116.79675"
+       height="8.5044222"
+       x="730.37122"
+       y="1228.2124"
+       transform="matrix(0.48127345,-0.87657051,0.1185433,0.99294888,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5259-2-3"
+       width="114.19602"
+       height="4.7581334"
+       x="-211.61522"
+       y="-469.19666"
+       transform="matrix(-0.88417967,0.46714699,-0.38058711,-0.92474507,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1"
+       id="rect5401"
+       width="2.8571429"
+       height="168.57143"
+       x="448.57144"
+       y="626.64789" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="308.57141"
+       y="829.50507"
+       id="text5403"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5405"
+         x="308.57141"
+         y="829.50507">Module Interconnects</tspan><tspan
+         sodipodi:role="line"
+         x="308.57141"
+         y="879.50507"
+         id="tspan5407" /></text>
+    <rect
+       style="fill:#280b0b;fill-opacity:1"
+       id="rect5409"
+       width="168.37665"
+       height="31.57626"
+       x="-372.95239"
+       y="66.487717"
+       transform="matrix(-0.50695711,-0.86197128,-0.07767763,0.99697853,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="62.857143"
+       y="232.36218"
+       id="text5411"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5413"
+         x="62.857143"
+         y="232.36218">Circular Track</tspan></text>
+  </g>
+</svg>
