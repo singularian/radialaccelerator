@@ -29,7 +29,7 @@ A linear radial accelerator contains an array or radial modules connected to for
 It consists of radial disc modules interconnected in series. A particle
 enters one radial loop and exits to the next radial loop.
 
-https://github.com/singularian/radialaccelerator/blob/master/radialAccelerator2.png
+https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorModule2.png
 
 
 A circular radial accelerator looks a disc or rectangular module with linear tracks.  
