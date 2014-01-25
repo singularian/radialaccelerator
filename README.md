@@ -50,11 +50,11 @@ https://github.com/singularian/radialaccelerator/blob/master/radialCoilAccelerat
 
 # License
 =============================================
-Copyright 2012 Nathan Ross  
+Copyright 2014 Nathan Ross  
 
 A Nathan Ross design
 
-August 29, 2012
+January 25, 2014
 
 http://creativecommons.org/licenses/by/3.0/legalcode
 
