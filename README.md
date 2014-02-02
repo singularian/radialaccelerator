@@ -79,7 +79,6 @@ This is a diagram of a 2-D accerator grid with the grid module interconnects. It
 interconnect to connect 2-D layers into a 3-D accelerator grid.
 
 https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGridInterconnects.png
-https://radialaccelerator.github.io
 
 Inside this diagram is an example of a 3-D grid with multiple accelerator coils interconnected between
 4 layers to form one grid.
