@@ -6,7 +6,7 @@ interconnected to form a linear accelerator or ring accelerator. The radial modu
 are similar to a disc and spiral in a loop of a n dimensional width. The track size can be
 anywhere from a sub micron or smaller to several centimenters or larger. Each module can be from several milimeters to up to a meter
 or more in circumference depending on the design. They can be fabricated with chip lithography techniques or created by conventional techniques. 
- It provides for a particle accelerator thousands of times larger than a simple ring or linear accelerator.
+It provides for a particle accelerator thousands of times larger than a simple ring or linear accelerator.
 
 An accelerator such as Fermilab could be as powerful as the SSC which cost multiple billions of dollars or the LHC.
 Accelerators up to 1000 kilometers in length can be constructed.
@@ -23,13 +23,13 @@ Each particle enters the radial module and exits to the next module.
 
 This is a diagram of a linear radial accelerator.
 
-https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorModule.png
+https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorModule.png
 
 A linear radial accelerator contains an array or radial modules connected to form one accelerator. 
 It consists of radial disc modules interconnected in series. A particle
 enters one radial loop and exits to the next radial loop.
 
-https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorModule2.png
+https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorModule2.png
 
 
 A circular radial accelerator looks a disc or rectangular module with linear tracks.  
@@ -37,19 +37,19 @@ The radial modules are interconnected in a circle or loop sequentially.
 
 This is a diagram or a radial Accelerator
 
-https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorDiagram.png
+https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorDiagram.png
 
 This is another diagram of a coil radial accelerator with linear track connected with arc bridges.
 These can be interconnected 2-D or 3-Dimensionally to form accelerator array grids.
 
-https://github.com/singularian/radialaccelerator/blob/master/radialCoilAccelerator.png
+https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialCoilAccelerator.png
 
 In this diagram a 2-D grid contains square particle accelerator modules. These contain coil accerators
 which are linked together in series to form a 5 by 3 accelerator grid. The interconnects connect each of the
 accelerator coils in series to an end row connector which connects the first row with the second and third row. A particle
 accelerator grid sends the particle from row 1 to row 2 to row 3 from the input to the output in series between each module.
 
-https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorGrid.png
+https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGrid.png
 
 The 2-D accelerator grid can be any number n by n modules wide and can be interconnected to a 
 duplicate accelerator grid to form a 3-D accelerator grid by utilizing a layer interconnect.
@@ -57,12 +57,12 @@ duplicate accelerator grid to form a 3-D accelerator grid by utilizing a layer i
 This is a diagram of a 2-D accerator grid with the grid module interconnects. It also includes a layer
 interconnect to connect 2-D layers into a 3-D accelerator grid.
 
-https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorGridInterconnects.png
+https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGridInterconnects.png
 
 Inside this diagram is an example of a 3-D grid with multiple accelerator coils interconnected between
 4 layers to form one grid.
 
-https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorGrid3D.png
+https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGrid3D.png
 
 
 
