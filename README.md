@@ -23,6 +23,7 @@ Traditional particle accelerators can be grouped into the shape and topology. A 
 
 - Circular Radial Acceratorators
 - Linear Radial Accelerators
+- Vertical Radial Accelerators
 - Radial Spiral Accelerators
 - 2-D Grid Radial Accelerators
 - 3-D Grid (composed of stacked 2-D Accelerator blocks)
@@ -47,6 +48,7 @@ It consists of radial disc modules interconnected in series. A particle
 enters one radial loop and exits to the next radial loop.
 
 https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorModule2.png
+
 
 
 A circular radial accelerator looks a disc or rectangular module with linear tracks.  
@@ -75,6 +77,7 @@ This is a diagram of a 2-D accerator grid with the grid module interconnects. It
 interconnect to connect 2-D layers into a 3-D accelerator grid.
 
 https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGridInterconnects.png
+https://radialaccelerator.github.io
 
 Inside this diagram is an example of a 3-D grid with multiple accelerator coils interconnected between
 4 layers to form one grid.
