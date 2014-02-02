@@ -54,6 +54,14 @@ https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorGr
 The 2-D accelerator grid can be any number n by n modules wide and can be interconnected to a 
 duplicate accelerator grid to form a 3-D accelerator grid by utilizing a layer interconnect.
 
+This is a diagram of a 2-D accerator grid with the grid module interconnects. It also includes a layer
+interconnect to connect 2-D layers into a 3-D accelerator grid.
+
+https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorGridInterconnects.png
+
+
+
+
 
 
 # Errata
