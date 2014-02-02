@@ -59,6 +59,10 @@ interconnect to connect 2-D layers into a 3-D accelerator grid.
 
 https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorGridInterconnects.png
 
+Inside this diagram is an example of a 3-D grid with multiple accelerator coils interconnected between
+4 layers to form one grid.
+
+https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorGrid3D.png
 
 
 
