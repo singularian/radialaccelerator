@@ -46,8 +46,8 @@ https://github.com/singularian/radialaccelerator/blob/master/radialCoilAccelerat
 
 In this diagram a 2-D grid contains square particle accelerator modules. These contain coil accerators
 which are linked together in series to form a 5 by 3 accelerator grid. The interconnects connect each of the
-accelerator coils in series and an end connector connects the first row with the second and third row. A particle
-accelerator grid send the particle from row 1 to row 2 to row 3 from the input to the output.
+accelerator coils in series and an end connector which connects the first row with the second and third row. A particle
+accelerator grid sends the particle from row 1 to row 2 to row 3 from the input to the output in series between each module.
 
 https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorGrid.png
 
