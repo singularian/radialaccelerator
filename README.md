@@ -9,8 +9,10 @@ or more in circumference depending on the design. They can be fabricated with ch
 It provides for a particle accelerator thousands of times larger than a simple ring or linear accelerator. A radial accelerator can be
 a spiral or an array of interconnected channels.
 
+The goal is to add some accelerator width and not just length.
+
 An accelerator such as Fermilab could be as powerful as the SSC which cost multiple billions of dollars or the LHC.
-Accelerators up to 1000 kilometers in length can be constructed.
+Accelerators exceeding 1000 kilometers in length can be constructed.
 
 Each radial module is interconnected to the next modual in sequence. Each particle is sent down the spiral from module to
 radial module in sequence and exits to the next radial module.
