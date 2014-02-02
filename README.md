@@ -4,7 +4,7 @@
 A radial accelerator is a new type of particle accelerator. It consists of radial modules
 interconnected to form a linear accelerator or ring accelerator. The radial modules 
 are looped tracks that form a loop of a n dimensional width. The track size can be
-anywhere from a sub micron or smaller to several centimenters or larger. Each module can be from several milimeters to up to a meter
+anywhere from a micron or smaller to several centimenters or larger. Each module can be from several milimeters to up to a meter
 or more in circumference depending on the design. They can be fabricated with chip lithography techniques or created by conventional techniques. 
 It provides for a particle accelerator thousands of times larger than a simple ring or linear accelerator. A radial accelerator can be
 a spiral or an array of interconnected channels.
@@ -16,6 +16,22 @@ Each radial module is interconnected to the next modual in sequence. Each partic
 radial module in sequence and exits to the next radial module.
 
 Alternativelly, the modules can be composed of a network lattice or polymorphic 3-D volume of interconnected pathways. 
+
+# Topology
+
+Traditional particle accelerators can be grouped into the shape and topology. A radial accerator has several shapes of interconnected modules.
+
+- Circular Radial Acceratorators
+- Linear Radial Accelerators
+- Radial Spiral Accelerators
+- 2-D Grid Radial Accelerators
+- 3-D Grid (composed of stacked 2-D Accelerator blocks)
+- Star Radial Accelerators
+- Coil Radial Accelerators 
+
+# Cyclotrons
+
+A cyclotron is much more complex and a radial spiral accelerator just uses a spiral track to accelerate the particle.
 
 # Building the Radial Accelerator
 
