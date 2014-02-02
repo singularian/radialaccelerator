@@ -48,10 +48,11 @@ In this diagram a 2-D grid contains square particle accelerator modules. These c
 which are linked together in series to form a 5 by 3 accelerator grid. The interconnects connect each of the
 accelerator coils in series and an end connector which connects the first row with the second and third row. A particle
 accelerator grid sends the particle from row 1 to row 2 to row 3 from the input to the output in series between each module.
-The 2-D grid can be any n by n modules wide and can be interconnected to a duplicate accelerator grid to form a 3-D accelerator
-grid.
 
 https://github.com/singularian/radialaccelerator/blob/master/radialAcceleratorGrid.png
+
+The 2-D accelerator grid can be any number n by n modules wide and can be interconnected to a 
+duplicate accelerator grid to form a 3-D accelerator grid by utilizing a layer interconnect.
 
 
 
