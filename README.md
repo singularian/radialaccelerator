@@ -1,12 +1,13 @@
 ﻿# Radial Accelerator
 =======
 
-A radial accelerator is a new type of particle accelerator. It consists of radial spiral modules
+A radial accelerator is a new type of particle accelerator. It consists of radial modules
 interconnected to form a linear accelerator or ring accelerator. The radial modules 
-are similar to a disc and spiral in a loop of a n dimensional width. The track size can be
+are looped tracks that form a loop of a n dimensional width. The track size can be
 anywhere from a sub micron or smaller to several centimenters or larger. Each module can be from several milimeters to up to a meter
 or more in circumference depending on the design. They can be fabricated with chip lithography techniques or created by conventional techniques. 
-It provides for a particle accelerator thousands of times larger than a simple ring or linear accelerator.
+It provides for a particle accelerator thousands of times larger than a simple ring or linear accelerator. A radial accelerator can be
+a spiral or an array of interconnected channels.
 
 An accelerator such as Fermilab could be as powerful as the SSC which cost multiple billions of dollars or the LHC.
 Accelerators up to 1000 kilometers in length can be constructed.
