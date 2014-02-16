@@ -85,6 +85,8 @@ Inside this diagram is an example of a 3-D grid with multiple accelerator coils 
 
 https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGrid3D.png
 
+https://singularian.github.io/radAccCalculator.html
+
 
 
 
