@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1600px"
-   height="1200px"
+   width="2000"
+   height="2000"
    id="svg3546"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 20">
+   sodipodi:docname="radialAcceleratorGridInterconnects.svg">
   <defs
      id="defs3548" />
   <sodipodi:namedview
@@ -26,15 +26,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.3"
      inkscape:cx="800"
-     inkscape:cy="600"
+     inkscape:cy="941.54122"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:window-width="842"
-     inkscape:window-height="686"
-     inkscape:window-x="3298"
-     inkscape:window-y="221"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3551">
     <rdf:RDF>
@@ -43,151 +43,152 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(0,800)">
     <rect
        style="fill:#e3dedb"
        id="rect2997"
        width="226.66667"
        height="280"
-       x="73.333328"
-       y="60" />
+       x="679.99994"
+       y="-716.66669" />
     <rect
        style="fill:#e3dedb"
        id="rect2997-7"
        width="226.66667"
        height="280"
-       x="660"
-       y="426.66669" />
+       x="666.66663"
+       y="-290" />
     <rect
        style="fill:#e3dedb"
        id="rect2997-9"
        width="226.66667"
        height="280"
-       x="810"
-       y="56.666668" />
+       x="1300"
+       y="-720" />
     <rect
        style="fill:#ff0000"
        id="rect3184"
        width="170"
        height="196.66667"
-       x="101.66669"
-       y="98.333344" />
+       x="708.33331"
+       y="-678.33331" />
     <rect
        style="fill:#ff0000"
        id="rect3184-3"
        width="170"
        height="196.66667"
-       x="688.33337"
-       y="461.66669" />
+       x="695"
+       y="-254.99997" />
     <rect
        style="fill:#ff0000"
        id="rect3184-1"
        width="170"
        height="196.66667"
-       x="841.66663"
-       y="94.999977" />
+       x="1331.6666"
+       y="-681.66669" />
     <rect
        style="fill:#ff2a2a"
        id="rect3113-2-2-3-1-3-8-7"
        width="103.33334"
        height="30"
-       x="24.99996"
-       y="178.33333" />
+       x="631.66663"
+       y="-598.33331" />
     <rect
        style="fill:#ff2a2a"
        id="rect3113-2-2-3-1-3-8-7-9"
        width="103.33334"
        height="30"
-       x="251.66666"
-       y="181.66667" />
+       x="858.33325"
+       y="-595" />
     <rect
        style="fill:#ff2a2a"
        id="rect3113-2-2-3-1-3-8-7-8"
        width="103.33334"
        height="30"
-       x="768.33331"
-       y="178.33336" />
+       x="1258.3334"
+       y="-598.33331" />
     <rect
        style="fill:#ff2a2a"
        id="rect3113-2-2-3-1-3-8-7-6"
        width="103.33334"
        height="30"
-       x="995"
-       y="178.3333" />
+       x="1485"
+       y="-598.33337" />
     <rect
        style="fill:#ff2a2a"
        id="rect3113-2-2-3-1-3-8-7-5"
        width="103.33334"
        height="30"
-       x="835.00006"
-       y="545" />
+       x="841.66669"
+       y="-171.66667" />
     <rect
        style="fill:#e3dedb"
        id="rect2997-1-7-0"
        width="226.66667"
        height="280"
-       x="1216.6666"
-       y="430" />
+       x="1306.6666"
+       y="-303.33334" />
     <rect
        style="fill:#ff0000"
        id="rect3184-6"
        width="170"
        height="196.66667"
-       x="1241.6666"
-       y="471.66666" />
+       x="1331.6666"
+       y="-261.66669" />
     <rect
        style="fill:#ff2a2a"
        id="rect3113-2-2-3-1-3-8-7-5-0"
        width="103.33334"
        height="30"
-       x="1178.3333"
-       y="551.66669" />
+       x="1268.3333"
+       y="-181.66666" />
     <rect
        style="fill:#ff2a2a"
        id="rect3113-2-2-3-1-3-8-7-5-2"
        width="103.33334"
        height="30"
-       x="-751.66669"
-       y="1308.3333"
+       x="-18.333364"
+       y="1398.3333"
        transform="matrix(0,-1,1,0,0,0)" />
     <rect
        style="fill:#e3dedb"
        id="rect2997-1-7-0-8"
        width="226.66667"
        height="280"
-       x="-292.50009"
-       y="-735.83331"
+       x="-359.16675"
+       y="-545.83331"
        transform="scale(-1,-1)" />
     <rect
        style="fill:#ff0000"
        id="rect3184-6-6"
        width="170"
        height="196.66667"
-       x="-260.83334"
-       y="-694.16656"
+       x="-327.5"
+       y="-504.16653"
        transform="scale(-1,-1)" />
     <rect
        style="fill:#ff2a2a"
        id="rect3113-2-2-3-1-3-8-7-5-0-0"
        width="103.33334"
        height="30"
-       x="-344.1666"
-       y="-617.5"
+       x="-410.83325"
+       y="-427.49997"
        transform="scale(-1,-1)" />
     <rect
        style="fill:#ff2a2a"
        id="rect3113-2-2-3-1-3-8-7-5-2-2"
        width="103.33334"
        height="30"
-       x="404.16684"
-       y="-184.16658"
+       x="214.16685"
+       y="-250.83325"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
        style="fill:#e3dedb"
@@ -229,7 +230,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3791"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(606.66666,-776.66666)"><flowRegion
          id="flowRegion3793"><rect
            id="rect3795"
            width="203.33333"
@@ -240,7 +242,8 @@
          id="flowPara3799" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3801"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(490,-776.66666)"><flowRegion
          id="flowRegion3803"><rect
            id="rect3805"
            width="303.33334"
@@ -248,38 +251,28 @@
            x="1213.3334"
            y="136.66667" /></flowRegion><flowPara
          id="flowPara3807">Output Connector</flowPara><flowPara
-         id="flowPara3809" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3811"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion3813"><rect
-           id="rect3815"
-           width="250"
-           height="130"
-           x="1246.6666"
-           y="810" /></flowRegion><flowPara
-         id="flowPara3817">Right Edge Connector</flowPara></flowRoot>    <text
+         id="flowPara3809" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="33.333332"
-       y="806.66663"
+       x="99.999992"
+       y="616.66663"
        id="text3819"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3821"
-         x="33.333332"
-         y="806.66663">Left Edge Connector</tspan></text>
+         x="99.999992"
+         y="616.66663">Left Edge Connector</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="666.66669"
-       y="780"
+       x="640"
+       y="89.999992"
        id="text3823"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3825"
-         x="666.66669"
-         y="780">Coil Module with connector</tspan></text>
+         x="640"
+         y="89.999992">Coil Module with connector</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -302,5 +295,134 @@
          id="tspan3833"
          x="456.66669"
          y="1066.6666">This converts a 2-D accelerator grid into a 3-D accelerator Grid</tspan></text>
+    <rect
+       style="fill:#e3dedb"
+       id="rect2997-4"
+       width="226.66667"
+       height="280"
+       x="133.24089"
+       y="-713.33337" />
+    <rect
+       style="fill:#ff0000"
+       id="rect3184-5"
+       width="170"
+       height="196.66667"
+       x="161.57426"
+       y="-674.99994" />
+    <rect
+       style="fill:#ff2a2a"
+       id="rect3113-2-2-3-1-3-8-7-9-7"
+       width="103.33334"
+       height="30"
+       x="311.57413"
+       y="-591.66663" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3791-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(36.574223,-753.3333)"><flowRegion
+         id="flowRegion3793-1"><rect
+           id="rect3795-5"
+           width="203.33333"
+           height="96.666664"
+           x="416.66666"
+           y="146.66667" /></flowRegion><flowPara
+         id="flowPara3797-2">Injector</flowPara><flowPara
+         id="flowPara3799-7" /></flowRoot>    <rect
+       style="fill:#e3dedb"
+       id="rect2997-1-7-0-6"
+       width="226.66667"
+       height="280"
+       x="-1535.1486"
+       y="-574.71106"
+       transform="scale(-1,-1)" />
+    <rect
+       style="fill:#ff0000"
+       id="rect3184-6-1"
+       width="170"
+       height="196.66667"
+       x="-1503.4818"
+       y="-533.04437"
+       transform="scale(-1,-1)" />
+    <rect
+       style="fill:#ff2a2a"
+       id="rect3113-2-2-3-1-3-8-7-5-0-4"
+       width="103.33334"
+       height="30"
+       x="1270.1484"
+       y="416.37778" />
+    <rect
+       style="fill:#ff2a2a"
+       id="rect3113-2-2-3-1-3-8-7-5-2-23"
+       width="103.33334"
+       height="30"
+       x="249.71104"
+       y="-1430.1484"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#e3dedb"
+       id="rect2997-1-7-0-8-8"
+       width="226.66667"
+       height="280"
+       x="-363.89331"
+       y="20.459082"
+       transform="scale(-1,-1)" />
+    <rect
+       style="fill:#ff0000"
+       id="rect3184-6-6-5"
+       width="170"
+       height="196.66667"
+       x="-332.22656"
+       y="62.125835"
+       transform="scale(-1,-1)" />
+    <rect
+       style="fill:#ff2a2a"
+       id="rect3113-2-2-3-1-3-8-7-5-0-0-7"
+       width="103.33334"
+       height="30"
+       x="-415.55978"
+       y="138.7924"
+       transform="scale(-1,-1)" />
+    <rect
+       style="fill:#ff2a2a"
+       id="rect3113-2-2-3-1-3-8-7-5-2-2-6"
+       width="136.66667"
+       height="30"
+       x="-95.458862"
+       y="-252.2265"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="88.059898"
+       y="90.374229"
+       id="text3819-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3821-8"
+         x="88.059898"
+         y="90.374229">Left Edge Connector</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1176.6667"
+       y="643.33331"
+       id="text3243"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3245"
+         x="1176.6667"
+         y="643.33331">Right Edge Connector</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1244.5931"
+       y="93.684914"
+       id="text3243-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3245-2"
+         x="1244.5931"
+         y="93.684914">Right Edge Connector</tspan></text>
   </g>
 </svg>
