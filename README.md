@@ -95,6 +95,8 @@ Inside this diagram is an example of a 3-D grid with multiple accelerator coils 
 
 https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGrid3D.png
 
+Within the following link is a simple calculator to calulate the length of a radial coil accelerator.
+
 https://singularian.github.io/radAccCalculator.html
 
 
