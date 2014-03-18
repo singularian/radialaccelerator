@@ -100,7 +100,9 @@ Within the following link is a simple calculator to calulate the length of a rad
 https://singularian.github.io/radAccCalculator.html
 
 
+# Donations
 
+Bitcoin donations: 148JgizuinHxfPrAqtwJSZndPnnQcnHv4X
 
 
 # Errata
@@ -110,6 +112,7 @@ https://singularian.github.io/radAccCalculator.html
 Copyright 2014 Nathan Ross  
 
 A Nathan Ross design
+"Festival of a Thousand Lights"
 
 January 25, 2014
 
