@@ -111,9 +111,6 @@ Bitcoin donations: 148JgizuinHxfPrAqtwJSZndPnnQcnHv4X
 =============================================
 Copyright 2014 Nathan Ross  
 
-A Nathan Ross design
-"Festival of a Thousand Lights"
-
 January 25, 2014
 
 https://github.com/singularian/radialaccelerator/blob/master/LICENSE
