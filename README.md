@@ -108,7 +108,7 @@ Bitcoin donations: 148JgizuinHxfPrAqtwJSZndPnnQcnHv4X
 # Errata
 
 # License
-=============================================
+=============================================  
 Copyright 2014 Nathan Ross  
 
 January 25, 2014
