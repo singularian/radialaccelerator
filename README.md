@@ -102,14 +102,14 @@ of accelerator grid modules which consist of radial coil accelerator modules.
 
 https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGridInterconnects.png  
 
-![Radial Accelerator Diagram(https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGridInterconnects.png)
+![RA](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGridInterconnects.png)
 
 Inside this diagram is an example of a 3-D grid with multiple accelerator coils interconnected between
 4 layers to form one grid.
 
 https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGrid3D.png
 
-![Radial Accelerator Diagram(https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGrid3D.png)
+![Radial Accelerator Diagram](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGrid3D.png)
 
 Within the following link is a simple calculator to calulate the length of a radial coil accelerator.
 
