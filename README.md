@@ -1,5 +1,4 @@
 ﻿# Radial Accelerator
-=======
 
 A radial accelerator is a new type of particle accelerator. It consists of radial modules
 interconnected to form a linear accelerator or ring accelerator. The radial modules 
