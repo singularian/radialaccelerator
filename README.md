@@ -53,6 +53,8 @@ It consists of radial disc modules interconnected in series. A particle
 enters one radial loop and exits to the next radial loop.
 
 https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorModule2.png
+![Radial Accelerator Diagram](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorModule2.png)
+
 
 A circular radial accelerator looks a disc or rectangular module with linear tracks.  
 The radial modules are interconnected in a circle or loop sequentially.
@@ -60,6 +62,8 @@ The radial modules are interconnected in a circle or loop sequentially.
 This is a diagram or a radial Accelerator
 
 https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorDiagram.png
+![Radial Accelerator Diagram](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorDiagram.png)
+
 
 This is another diagram of a coil radial accelerator with linear track connected with arc bridges.
 These can be interconnected 2-D or 3-Dimensionally to form accelerator array grids.
