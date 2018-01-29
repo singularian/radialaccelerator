@@ -45,6 +45,9 @@ This is a diagram of a linear radial accelerator.
 
 https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorModule.png
 
+![Radial Accelerator Diagram](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorModule.png)
+Radial Accelerator![Alt Text](url)
+
 A linear radial accelerator contains an array or radial modules connected to form one accelerator. 
 It consists of radial disc modules interconnected in series. A particle
 enters one radial loop and exits to the next radial loop.
