@@ -40,27 +40,22 @@ A cyclotron is much more complex and a radial spiral accelerator just uses a spi
 Constructing the machine consists of creating interconnected radial modules. This is not a cyclotron. Cyclotron's suck.
 Each particle enters the radial module and exits to the next module.
 
-This is a diagram of a linear radial accelerator.
-
-https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorModule.png  
+This is a diagram of a linear radial accelerator.  
 
 ![Radial Accelerator Diagram](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorModule.png)
 
 
 A linear radial accelerator contains an array or radial modules connected to form one accelerator. 
 It consists of radial disc modules interconnected in series. A particle
-enters one radial loop and exits to the next radial loop.
+enters one radial loop and exits to the next radial loop.  
 
-https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorModule2.png  
 ![Radial Accelerator Diagram](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorModule2.png)
 
 
 A circular radial accelerator looks a disc or rectangular module with linear tracks.  
 The radial modules are interconnected in a circle or loop sequentially.
 
-This is a diagram or a radial Accelerator
-
-https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorDiagram.png  
+This is a diagram or a radial Accelerator.    
 
 ![Radial Accelerator Diagram](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorDiagram.png)
 
@@ -68,16 +63,13 @@ https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcce
 This is another diagram of a coil radial accelerator with linear track connected with arc bridges.
 These can be interconnected 2-D or 3-Dimensionally to form accelerator array grids.
 
-https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialCoilAccelerator.png  
-
 ![Radial Accelerator Diagram](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialCoilAccelerator.png)
 
 In this diagram a 2-D grid contains square particle accelerator modules. These contain coil accerators
 which are linked together in series to form a 5 by 3 accelerator grid. The interconnects connect each of the
 accelerator coils in series to an end row connector which connects the first row with the second and third row. A particle
 accelerator grid sends the particle from row 1 to row 2 to row 3 from the input to the output in series between each module.
-
-https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGrid.png  
+  
 
 ![Radial Accelerator Diagram](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGrid.png)
 
@@ -97,16 +89,11 @@ of accelerator grid modules which consist of radial coil accelerator modules.
 - (7) Coil Module with Connectors
 - (8) Grid layer Interconnector
 - (9) Output Connect (The exit point for the accelerated particle) 
- 
-
-https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGridInterconnects.png  
 
 ![RA](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGridInterconnects.png)
 
 Inside this diagram is an example of a 3-D grid with multiple accelerator coils interconnected between
 4 layers to form one grid.
-
-https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGrid3D.png
 
 ![Radial Accelerator Diagram](https://github.com/singularian/radialaccelerator/blob/master/diagrams/radialAcceleratorGrid3D.png)
 
